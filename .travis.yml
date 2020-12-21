@@ -9,7 +9,6 @@ cache:
   directories:
     - node_modules
 node_js:
-  - 0.1
   - 4.3
   - stable
 before_install:
